@@ -8,9 +8,11 @@ Stoic-DMV is a FiveM resource designed to simulate a Department of Motor Vehicle
 ## Requirements
 To use the Stoic-DMV resource, you need to ensure the following dependencies are installed:
 
-1. **ox_lib**: A Lua library for FiveM resources, providing various utility functions and tools. It enhances the functionality and simplifies the development process of FiveM resources.
+1. [**ox_lib**](https://github.com/overextended/ox_lib): A Lua library for FiveM resources, providing various utility functions and tools. It enhances the functionality and simplifies the development process of FiveM resources.
    
-2. **Stoic-IDHandler**: A resource that handles player identification within your FiveM server. It manages player data and provides essential functions for interacting with player profiles.
+2. [**Stoic-IDHandler**](https://github.com/TheStoicBear/Stoic-IDHandler): A resource that handles player identification within your FiveM server. It manages player data and provides essential functions for interacting with player profiles.
+
+3. [**Stoic-ID**](https://github.com/TheStoicBear/Stoic-ID): A resource that handlers a chat based ID Card within your FiveM server. It displays to you and other near you, the information it grabs from the Source player.
 
 ## Installation
 Follow these steps to install the Stoic-DMV resource:
